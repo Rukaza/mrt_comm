@@ -1,6 +1,6 @@
 #
 test.txt
-.env
+bypass_tst/.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
